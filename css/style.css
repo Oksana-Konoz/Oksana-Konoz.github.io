@@ -1500,6 +1500,8 @@ nav .text a img:hover {
     .contacts .content .main img {
         height: 300px;
         width: 100%;
+		object-fit: cover;
+        object-position: center;
     }
 
     /* footer */
